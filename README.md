@@ -2,4 +2,4 @@
 
 Sample for performace testing
 
-*URL have been change a little bit for data secure to my client
+*URL have been changed a little bit for data secure for my client
